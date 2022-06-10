@@ -7,4 +7,4 @@ It's an interactive gallery of pictures from the characters of the Breaking Bad 
 The user can filter the displayed character list by searching for characters by name in the search input at the top that makes the character grid update with every letter inserted by the user.<br/>
 All character data is retrieved from the Breaking Bad API available at breakingbadapi.com
 
-Click <a href="https://adtx.github.io/todo-list-app/" target="_blank">here</a> to try out the app for yourself.
+Click <a href="https://adtx.github.io/breaking-bad-app/" target="_blank">here</a> to try out the app for yourself.
