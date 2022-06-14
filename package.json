@@ -11,7 +11,7 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://adtx.github.io/breaking-bad-app",
+  "homepage": "https://adtx.github.io/breaking_bad_app_reactjs",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
