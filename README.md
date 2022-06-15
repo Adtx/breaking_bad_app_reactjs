@@ -1,4 +1,4 @@
-# Breaking Bad App
+# ReactJS Breaking Bad App
 
 <img src="screenshots/BreakingBad2.png" width="500">
 
